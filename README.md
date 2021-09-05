@@ -23,10 +23,8 @@ The results from the queries conducted were as follows:
 
 ## Summary
 
+W. Avy asked if the Surf Shop and Ice Cream business could be sustainable year round. This would bean favorable temperatures for both activities during (at least) a majority of the year. The queries performed on the months of June and December showed very similar temperature trends with over 1000 points of data for each query. From this it can be garnered that consistent temperature will lead to consistent favorable business conditons (in regards to temperature). Other factors such as weather events, business developments, and population activity remain to be seen from the queries performed. 
 
+Additional queries could garner more information to better inform W. Avy on their business idea(s). The recommendations for queries to be performed would be additional queries on weather events such as rain, hail, tornadoes, hurricanes, and other major weather events. If temperature stays consistent throughout the year on Ohau then other factors need to be observed. 
 
-
-
-
-    Summary:
-        There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+Another queery could be performed on the stations in Ohau, as each of them will have different temperatures for the area. Temperatures fluctuate, even if just a little, across any stretch of area. If one is to make it out on top in business then every advantage needs to be taken into account. Each station could have a query run on it/it's area to determine percepitation, temperatures, and other data information to find out what areas have the best/most ideal conditions year round. Those that bring about the idea of paradise most often would be the best places to set up shop for surfing and a cold scoop of ice cream!
